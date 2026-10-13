@@ -1,0 +1,19 @@
+Pytest is a mature, 
+Unit testing is the process of testing an individual, small and isolated unit of code-usually a function or method-to-verify that it produces the expected result.
+
+Integration testing is the process of testing whether two or more software components work correctly together.
+
+Functional testing is the process of testing whether a software feature or functionality behaves according to its specified business requirements.
+
+Assert: assert in python is a keyword used to check whether a condition is true.
+If it is not true, raise an error AssertionError.
+
+Fixtures: A pytest fixture is a reusable function that prepares the data, objects or environment required by a test and provides them to the test function.
+Fixture = Test setup that can reused by multiple tests.
+
+
+
+
+
+
+
